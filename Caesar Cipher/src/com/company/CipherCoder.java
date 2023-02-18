@@ -130,4 +130,4 @@ public class CipherCoder {
         return true;
     }
 
-} //END OF CIPHERCODE CLASS
+} //END OF CIPHERCODER CLASS
